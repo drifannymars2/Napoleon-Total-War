@@ -200,3 +200,6 @@ This repository serves as the official landing page for Napoleon: Total War. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Napoleon: Total War today!**
+
+---
+**Last updated:** 2026-11-07 01:29:20 UTC
