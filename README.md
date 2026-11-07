@@ -202,4 +202,4 @@ This repository serves as the official landing page for Napoleon: Total War. The
 **Get the most recent version of Napoleon: Total War today!**
 
 ---
-**Last updated:** 2026-11-07 01:29:20 UTC
+**Last updated:** 2026-11-07 08:05:44 UTC
